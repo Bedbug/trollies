@@ -1,0 +1,31 @@
+{
+  "name": "trollies-api",
+  "description": "trollies-api app description here",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "ejs": "",
+    "express": "",
+    "mongoose": "",
+    "morgan": "",
+    "express-jwt": "^3.1.0",
+    "jsonwebtoken": "^5.0.5",
+    "method-override": "latest",
+    "body-parser": "",
+    "errorhandler": ""
+  },
+  "devDependencies": {
+    "grunt": "",
+    "grunt-mocha-test": "",
+    "bower": "",
+    "supertest": "",
+    "mocha": "",
+    "grunt-open": "^0.2.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-express-server": "^0.4.17",
+    "load-grunt-tasks": "^0.4.0"
+  },
+  "scripts": {
+    "start": "app.js"
+  }
+}
